@@ -1,6 +1,6 @@
 # Secure-User-Authentication-System
-A secure user authentication system developed as part of a *Computer Networks* project.  
-The system demonstrates secure client-server communication using *TCP socket programming, with a **Python server* and *Java client, along with a **Flask-based web interface* for authentication and access control.
+A secure user authentication system developed as part of a Computer Networks project.  
+The system demonstrates secure client-server communication using TCP socket programming, with a Python server and Java client, along with a Flask-based web interface for authentication and access control.
 
 This project focuses on implementing secure credential management, password hashing, and network-based authentication in a distributed environment.
 
